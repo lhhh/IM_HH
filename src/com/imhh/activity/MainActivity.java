@@ -13,6 +13,8 @@ public class MainActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Toast.makeText(getApplicationContext(), "46456", 1).show();
+		Toast.makeText(getApplicationContext(), "46456", 1).show();
+
 	}
 
 	@Override
